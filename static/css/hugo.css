@@ -114,8 +114,10 @@
   margin-top: 0;
 }
 
-.blogpost-list-wrapper a img {
-  height: 170px;
-  object-fit: cover;
-  width: 100%;
+@media (min-width: 979px) {
+  .blogpost-list-wrapper a img {
+    height: 170px;
+    object-fit: cover;
+    width: 100%;
+  }
 }

@@ -1,0 +1,43 @@
+{{ partial "header.html" . }}
+
+<!-- Main content section -->
+<section class="section-2">
+  <div class="w-layout-vflex flex-block-33">
+    <div class="w-layout-hflex flex-block-32">
+      <div class="w-layout-vflex flex-block-35">
+        <div class="w-layout-hflex flex-block-34">
+          <img src="../../images/arrow_left.svg" loading="lazy" alt="" />
+          <a href="/news.html" class="link-3">Back to all articles</a>
+        </div>
+      </div>
+      <div class="w-layout-vflex flex-block-37">
+        <div class="container">
+          <!-- Title and Meta -->
+          <h1 class="blogpost-header-1">{{ .Title }}</h1>
+          <div class="w-layout-hflex flex-block-36">
+            <span class="publisher blogpost-caption">{{ .Params.publisher }}</span>
+            <div class="blogpost-caption">{{ .Date.Format "January 2, 2006" }}</div>
+          </div>
+
+          <!-- Main Content -->
+          <div class="blog-content">
+            {{ .Content 
+              | replaceRE "(<p>)(.*?)(</p>)" "<p class=\"blogpost-body-2\">$2</p>" 
+              | replaceRE "(<a>)(.*?)(</a>)" "<a class=\"link-4\">$2</a>" 
+              | replaceRE "(<li>)(.*?)(</li>)" "<li class=\"blogpost-body-2\">$2</li>" 
+              | replaceRE "<h1([^>]*)>" "<h1 class=\"blogpost-header-1\"$1>" 
+              | replaceRE "<h2([^>]*)>" "<h2 class=\"blogpost-header-2\"$1>" 
+              | replaceRE "<h3([^>]*)>" "<h3 class=\"blogpost-header-3\"$1>"
+              | replaceRE "<h6([^>]*)>" "<h6 class=\"blogpost-body-1\"$1>"
+              | safeHTML }}
+          </div>
+        </div>
+      </div>
+      <a href="/news.html" class="pricing_button light w-inline-block">
+        <div>Back to All Articles</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+{{ partial "footer.html" . }}

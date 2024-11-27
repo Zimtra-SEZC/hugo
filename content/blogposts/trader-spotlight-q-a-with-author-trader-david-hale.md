@@ -4,7 +4,7 @@ publisher: Zimtra
 date: 2024-11-27T14:38:00+02:00
 image: /blogposts/images/trader_spotlight1.webp
 ---
-![Trader spotlight of David Hale ](/blogposts/images/untitled-design.png "David Hale, Author and Zimtra Trader")
+![Trader spotlight of David Hale ](/blogposts/images/trader-spotlight-david-hale.png "David Hale, Author and Zimtra Trader")
 
 With over two decades of trading experience, author of [Cash Rules: Reminiscences Of a Stock Trader](https://www.david-hale.com/book), David Hale has navigated the highs and lows of the market, transforming a passion for gambling into a disciplined and highly successful trading career. 
 
@@ -25,11 +25,11 @@ After 12 loyal years trading with Zimtra, he’s the perfect guest to feature ne
 * **What initially drew you to Zimtra?**
 
   I had been trading through U.S-based prop firms, paying what I now know were exorbitant commissions. A friend of mine was using Zimtra and told me his commission rate, and at first I didn't believe him, but as soon as I realized it was true, I made the switch.
-* **In your opinion, what are the key advantages of trading with a prop firm like Zimtra compared to using a traditional broker?**\
+* **In your opinion, what are the key advantages of trading with a prop firm like Zimtra compared to using a traditional broker?**
 
   Buying Power! You need money to make money, and Zimtra can offer far greater BP. Active traders must have professional software, proper data feeds, and access to smart routes–good luck finding these at traditional brokers.
 * **What sets Zimtra apart from other prop firms or brokers in the industry?**
 
   Not only do I find that Zimtra offers the best buying power, commissions, and payout, but the service is also top-notch. I also love the fact that Zimtra offers a zero-fee smart route, and lets the trader choose which software they want to use. Probably most importantly, I feel safe trading with Zimtra. It's been 12 years now, and I look forward to many more years of battling the markets with Zimtra’s support.
 
-  If you’d like to learn more about David and his trading or mentoring, you can visit his website [here](https://www.david-hale.com/). To discover the advantages of trading with Zimtra, click [here](https://zimtra.com/).
+If you’d like to learn more about David and his trading or mentoring, you can visit his website [here](https://www.david-hale.com/). To discover the advantages of trading with Zimtra, click [here](https://zimtra.com/).

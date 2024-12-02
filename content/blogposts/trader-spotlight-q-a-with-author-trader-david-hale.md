@@ -12,24 +12,7 @@ After 12 loyal years trading with Zimtra, he’s the perfect guest to feature ne
 
 * **Trading is clearly your passion, but it's fascinating that horses and sports betting sparked your interest in risk. How do you differentiate trading as a skill-based craft from gambling?**
 
-
-
-
-
-
-  Gambling typically means that the house has the edge, not you, so
-  trading should never be confused with gambling. If I don’t have a strategy with
-  an edge and then execute it effectively, I am gambling. Gambling is about the
-  thrill, and while I still get a buzz from trading, the ultimate buzz comes from
-  executing my trading plan.
-
-
-
-
-
-
-
-
+  Gambling typically means that the house has the edge, not you, so trading should never be confused with gambling. If I don’t have a strategy with an edge and then execute it effectively, I am gambling. Gambling is about the thrill, and while I still get a buzz from trading, the ultimate buzz comes from executing my trading plan.
 * **What specific steps did you take to develop the discipline needed to recover from your initial $40,000 loss?**
 
   The biggest step was learning to cut my losing trades and keeping those losses as small as possible. Losses are inevitable, but the number one priority for a new trader is to keep them tight and get your trading education as quickly and cheaply as possible. Cutting losses quickly will not only reduce the financial hole that you will no doubt dig yourself into at the start; even more importantly, it teaches discipline, which is a prerequisite for any successful trader.

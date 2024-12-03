@@ -10,7 +10,7 @@ With over two decades of trading experience, author of [Cash Rules: Reminiscence
 
 After 12 loyal years trading with Zimtra, he’s the perfect guest to feature next under the spotlight.
 
-* **Trading is clearly your passion, but it's fascinating that horses and sports betting sparked your interest in risk. How do you differentiate trading as a skill-based craft from gambling?**
+* **Trading is clearly your passion, but it's fascinating that horse and sports betting sparked your interest in risk. How do you differentiate trading as a skill-based craft from gambling?**
 
   Gambling typically means that the house has the edge, not you, so trading should never be confused with gambling. If I don’t have a strategy with an edge and then execute it effectively, I am gambling. Gambling is about the thrill, and while I still get a buzz from trading, the ultimate buzz comes from executing my trading plan.
 * **What specific steps did you take to develop the discipline needed to recover from your initial $40,000 loss?**

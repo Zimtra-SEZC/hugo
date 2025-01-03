@@ -10,7 +10,7 @@ With over seven years of trading experience in U.S. equities and fixed income, J
 
 * **Jordan, first things first. Big congratulations on the arrival of your baby girl! How has fatherhood impacted your approach to trading and life in general?**
 
-  Thank you! Becoming a father has been a life-changing experience. It’s brought a new sense of responsibility and purpose to everything I do, including trading. I’m want to be more disciplined and focused than ever, as I want to set an example for my daughter. Fatherhood has also helped me appreciate the importance of balance—ensuring I allocate time for both my family and my trading career. It’s a powerful motivator to push for even greater success while maintaining stability.
+  Thank you! Becoming a father has been a life-changing experience. It’s brought a new sense of responsibility and purpose to everything I do, including trading. I want to be more disciplined and focused than ever, as I want to set an example for my daughter. Fatherhood has also helped me appreciate the importance of balance—ensuring I allocate time for both my family and my trading career. It’s a powerful motivator to push for even greater success while maintaining stability.
 * **What do you enjoy outside of trading? Do you have any hobbies or activities that help you unwind and maintain balance in your life?**
 
   Outside of trading, I enjoy spending quality time with my family, especially now with my daughter. I also like to stay active—whether it’s hitting the gym, going for long walks, or playing sports. Physical activity helps me clear my mind and recharge. Additionally, I have a keen interest in reading and learning new things, particularly in areas that help me grow both as a trader and as a person.

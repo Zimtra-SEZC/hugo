@@ -6,7 +6,7 @@ image: /blogposts/images/frame_155877.png
 ---
 ![Trader spotlight of Jordan Dimitrov](/blogposts/images/frame_155877.png "Trader Spotlight: Meet Jordan Dimitrov")
 
-With over seven years of trading experience in U.S. equities and fixed income, Jordan Dimitrov has turned market challenges into a successful career. Last year, he co-founded YD Trading with Vladimir Sorchev, building a thriving community in Bulgaria that helps traders master the markets from the ground up.
+With over seven years of trading experience in U.S. equities and fixed income, Jordan Dimitrov has turned market challenges into a successful career. Last year, he co-founded [Yield Dynamics Trading Group](https://ydgtrading.com/) with Vladimir Sorchev, building a thriving community in Bulgaria that helps traders master the markets from the ground up.
 
 * **Jordan, first things first. Big congratulations on the arrival of your baby girl! How has fatherhood impacted your approach to trading and life in general?**
 
@@ -28,7 +28,7 @@ With over seven years of trading experience in U.S. equities and fixed income, J
   \- Adaptability: The market is ever-changing, so you need to remain flexible and open to adjusting your strategies when needed.
 
   \- Emotional Discipline: Trading can be emotional, but staying calm and sticking to your plan is crucial for long-term success.
-* **YD Trading has made a strong mark in Bulgaria. What motivated you to build this community and what’s your vision for its future?**
+* **Yield Dynamics Trading Group has made a strong mark in Bulgaria. What motivated you to build this community and what’s your vision for its future?**
 
   YD Trading was born out of a desire to give back to the trading community and help aspiring traders achieve success. My partner Vladimir and I saw the need for a place in Bulgaria where people could learn trading from the ground up, with real mentorship and support. Our vision is to create a robust community of skilled traders who are not only profitable but also disciplined and knowledgeable. Over time, we hope to expand YD Trading’s reach and influence across Europe and beyond.
 * **You’ve been with Zimtra for many years now - what makes Zimtra stand out from others?**

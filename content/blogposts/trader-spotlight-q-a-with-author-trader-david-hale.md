@@ -2,9 +2,9 @@
 title: "Trader Spotlight: Q&A With Author & Trader David Hale"
 publisher: Zimtra
 date: 2024-11-27T14:38:00+02:00
-image: /blogposts/images/imgpsh_fullsize_anim.png
+image: /blogposts/images/frame_1559507.png
 ---
-![Trader spotlight of David Hale ](/blogposts/images/imgpsh_fullsize_anim.png "David Hale, Author and Zimtra Trader")
+![Trader spotlight of David Hale ](/blogposts/images/frame_1559507.png "David Hale, Author and Zimtra Trader")
 
 With over two decades of trading experience, author of [Cash Rules: Reminiscences Of a Stock Trader](https://www.david-hale.com/book), David Hale has navigated the highs and lows of the market, transforming a passion into a disciplined and highly successful trading career. 
 

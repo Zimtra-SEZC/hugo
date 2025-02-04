@@ -1,119 +1,115 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Launching the Future of Trading</title>
-
-    
-    <meta property="og:title" content="Launching the Future of Trading" />
-    <meta name="twitter:title" content="Launching the Future of Trading" />
-
-    
-    <meta
-      name="description"
-      content=""
-    />
-    <meta
-      property="og:description"
-      content=""
-    />
-    <meta
-      name="twitter:description"
-      content=""
-    />
-
-    <link href="../css/normalize.css" rel="stylesheet" />
-    <link href="../css/webflow.css" rel="stylesheet" />
-    <link href="../css/zimtra.webflow.css" rel="stylesheet" />
-    <link href="../css/hugo.css" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com" rel="preconnect" />
-    <link
-      href="https://fonts.gstatic.com"
-      rel="preconnect"
-      crossorigin="anonymous"
-    />
-    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
-    <script type="text/javascript">
-      WebFont.load({
-        google: {
-          families: [
-            "Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
-            "Syne:regular,500,600,700,800",
-          ],
-        },
-      });
-    </script>
-    
+<html data-wf-page="66acb913f2243846b02d0c84" data-wf-site="66acb913f2243846b02d0c7e">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zimtra - Your Trusted Trading Partner</title>
+  <meta content="Zimtra is a trusted proprietary trading firm with unparalleled buying power, flexible technology, and unmatched customer service to trade equities on every US stock exchange" name="description">
+  <meta content="Zimtra - Your Trusted Trading Partner" property="og:title">
+  <meta content="Zimtra is a trusted proprietary trading firm with unparalleled buying power, flexible technology, and unmatched customer service to trade equities on every US stock exchange" property="og:description">
+  <meta content="https://zimtra.com/images/zimtra_default_logo.png" property="og:image">
+  <meta content="Zimtra - Your Trusted Trading Partner" property="twitter:title">
+  <meta content="Zimtra is a trusted proprietary trading firm with unparalleled buying power, flexible technology, and unmatched customer service to trade equities on every US stock exchange" property="twitter:description">
+  <meta content="https://zimtra.com/images/zimtra_default_logo.png" property="twitter:image">
+  <meta property="og:type" content="website">
+  <meta content="summary_large_image" name="twitter:card">
+  <link href="https://zimtra.com/css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="https://zimtra.com/css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="https://zimtra.com/css/zimtra.webflow.css" rel="stylesheet" type="text/css">
+  <link href="https://zimtra.com/css/hugo.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+  <script type="text/javascript">WebFont.load({  google: {    families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","Exo:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","Syne:regular,500,600,700,800"]  }});</script>
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="https://zimtra.com/images/favicon.png" rel="shortcut icon" type="image/x-icon">
+  <link href="https://zimtra.com/images/webclip.png" rel="apple-touch-icon">
+  <script>
+  function parseQuery() {
+    const queryString = window.location.search.substring(1);
+    const query = {};
+    const pairs = queryString.split('&');
+    for (let i = 0; i < pairs.length; i++) {
+      const pair = pairs[i].split('=');
+      const key = decodeURIComponent(pair[0]);
+      const value = decodeURIComponent(pair[1] || '');
+      const capitalizedKey = key.charAt(0).toUpperCase() + key.slice(1).toLowerCase();
+      query[capitalizedKey] = value;
+    }
+    return query;
+  }
+  const queryParams = parseQuery();
+  const campaign = sessionStorage.getItem('Campaign');
+  const adset = sessionStorage.getItem('Adset');
+  const ad = sessionStorage.getItem('Ad');
+  const query = sessionStorage.getItem('onboardingParams');
+  if (queryParams.Campaign && !campaign) {
+    sessionStorage.setItem('Campaign', queryParams.Campaign);
+  }
+  if (queryParams.Adset && !adset) {
+    sessionStorage.setItem('Adset', queryParams.Adset);
+  }
+  if (queryParams.Ad && !ad) {
+    sessionStorage.setItem('Ad', queryParams.Ad);
+  }
+  if ((queryParams.Campaign || queryParams.Adset || queryParams.Ad) && !query) {
+    sessionStorage.setItem('onboardingParams', window.location.search.substring(1));
+  }
+</script>
+  
+  
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-PEQD2QBX92"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-PEQD2QBX92');
-  </script>
-    
-  </head>
-  <body>
-    
-    <div
-      data-animation="default"
-      data-collapse="medium"
-      data-duration="400"
-      data-easing="ease"
-      data-easing2="ease"
-      role="banner"
-      class="site_header w-nav"
-    >
-      <div class="uui-navbar07_container">
-        <a href="../index.html" class="uui-navbar07_logo-link w-nav-brand">
-          <div class="uui-logo_component">
-            <img
-              src="../../images/logo-dark.svg"
-              loading="lazy"
-              width="96"
-              alt=""
-            />
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-PEQD2QBX92');
+</script>
+  
+  <script>
+document.addEventListener("DOMContentLoaded", function() {
+    const path = window.location.pathname;
+    if (path === "/sign-in" || path === "/sign-in/") {
+        window.location.replace("/sign-in.html");
+    }
+});
+</script>
+</head>
+<body class="body">
+  <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="site_header w-nav">
+    <div class="uui-navbar07_container">
+      <a href="https://zimtra.com" aria-current="page" class="uui-navbar07_logo-link w-nav-brand w--current">
+        <div class="uui-logo_component"><img src="https://zimtra.com/images/logo-dark.svg" loading="lazy" width="96" alt=""></div>
+      </a>
+      <nav role="navigation" class="uui-navbar07_menu w-nav-menu">
+        <div class="uui-navbar07_menu-left">
+          <a href="https://zimtra.com/pricing.html" class="navbar_link w-nav-link">Pricing</a>
+          <a href="https://zimtra.com/news.html" class="navbar_link w-nav-link">News</a>
+          <a href="https://zimtra.com/education.html" class="navbar_link w-nav-link">Education</a>
+          <a href="https://zimtra.com/contacts.html" class="navbar_link w-nav-link">Contacts</a>
+        </div>
+        <div class="uui-navbar07_menu-right">
+          <div class="uui-navbar07_button-wrapper">
+            <a href="https://zimtra.com/sign-in.html" class="navigation_button_secondary w-inline-block">
+              <div>Sign in</div>
+            </a>
+            <a href="https://zimtra.com/create-your-profile.html" class="navigation_button_primary w-inline-block">
+              <div class="text-block">Join Zimtra</div>
+            </a>
           </div>
-        </a>
-        <nav role="navigation" class="uui-navbar07_menu w-nav-menu">
-          <div class="uui-navbar07_menu-left">
-            <a href="../pricing.html" class="navbar_link w-nav-link">Pricing</a>
-            <a href="../news.html" class="navbar_link w-nav-link">News</a>
-            <a href="../education.html" class="navbar_link w-nav-link"
-              >Education</a
-            >
-            <a href="../contacts.html" class="navbar_link w-nav-link"
-              >Contacts</a
-            >
+        </div>
+      </nav>
+      <div class="uui-navbar07_menu-button w-nav-button">
+        <div class="menu-icon_component">
+          <div class="menu-icon_line-top"></div>
+          <div class="menu-icon_line-middle">
+            <div class="menu-icon_line-middle-inner"></div>
           </div>
-          <div class="uui-navbar07_menu-right">
-            <div class="uui-navbar07_button-wrapper">
-              <a
-                href="../sign-in.html"
-                class="navigation_button_secondary w-inline-block"
-              >
-                <div>Sign in</div>
-              </a>
-              <a
-                href="../create-your-profile.html"
-                class="navigation_button_primary w-inline-block"
-              >
-                <div class="text-block">Join Zimtra</div>
-              </a>
-            </div>
-          </div>
-        </nav>
-        <div class="uui-navbar07_menu-button w-nav-button">
-          <div class="menu-icon_component">
-            <div class="menu-icon_line-top"></div>
-            <div class="menu-icon_line-middle">
-              <div class="menu-icon_line-middle-inner"></div>
-            </div>
-            <div class="menu-icon_line-bottom"></div>
-          </div>
+          <div class="menu-icon_line-bottom"></div>
         </div>
       </div>
     </div>
+  </div>
 
 
 
@@ -127,7 +123,7 @@
         </div>
       </div>
       <div class="w-layout-vflex flex-block-37">
-        <div class="container">
+        <div class="blogposts123-container">
           
           <h1 class="blogpost-header-1">Launching the Future of Trading</h1>
           <div class="w-layout-hflex flex-block-36">

@@ -1096,11 +1096,10 @@
 }
 
 .pricing_button.light {
-  margin: 0 auto;
   color: var(--dp_blue_2);
   border-width: 2px;
   width: 230px;
-  margin-top: 20px;
+  margin: 20px auto 0;
 }
 
 .pricing_button.light-2 {

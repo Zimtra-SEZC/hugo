@@ -15,6 +15,7 @@
 }
 .blogposts123-container li::marker {
   color: #78f0c6;
+  font-size: 1.5em;
 }
 
 /* Desktop Styles */

@@ -18,6 +18,10 @@
   font-size: 1.5em;
 }
 
+.blogposts123-container img {
+  width: 100%;
+}
+
 /* Desktop Styles */
 @media (min-width: 979px) {
   .blogposts123-container img {

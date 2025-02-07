@@ -1096,6 +1096,7 @@
 }
 
 .pricing_button.light {
+  margin: 0 auto;
   color: var(--dp_blue_2);
   border-width: 2px;
   width: 230px;

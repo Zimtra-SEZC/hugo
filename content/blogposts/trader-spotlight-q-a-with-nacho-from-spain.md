@@ -6,9 +6,7 @@ image: /blogposts/images/nacho.png
 ---
 ![](/blogposts/images/nacho.png "Trader Spotlight: Q&A with Nacho from Spain")
 
-
 We reached out to Ignacio "Nacho" Vitale Martinelli, one of Zimtra’s standout live-funded traders, to get his take on his trading journey, the challenges he’s faced, and his advice for fellow traders. Here’s what he shared with us:
-
 
 ### What do you enjoy most about trading?
 
@@ -30,10 +28,9 @@ The most impactful book I've read is "Antifragile: Things That Gain from Disorde
 
 My trading stats might not be flashy, but I'm a very consistent trader who doesn't typically experience extreme highs or lows. My strength lies in consistency and adaptability to market cycles.
 
-
-Largest Gain: **$2,781.79**\
-Largest Loss: **\-$1,889.91**\
-Total # of Trades: **1,867**\
-Win Rate: **Around 70%**
+**Largest Gain: $2,781.79**\
+**Largest Loss: -$1,889.91**\
+**Total # of Trades: 1,867**\
+**Win Rate: Around 70%**
 
 You can follow Nacho’s journey on **X: *[@vitalesiak](https://x.com/vitalesiak)***

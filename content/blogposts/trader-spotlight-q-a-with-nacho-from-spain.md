@@ -1,7 +1,7 @@
 ---
 title: "Trader Spotlight: Q&A with Nacho from Spain"
 publisher: Zimtra
-date: 2025-02-24T15:36:00+01:00
+date: 2024-10-01T15:36:00+02:00
 image: /blogposts/images/nacho.png
 ---
 ![](/blogposts/images/nacho.png "Trader Spotlight: Q&A with Nacho from Spain")

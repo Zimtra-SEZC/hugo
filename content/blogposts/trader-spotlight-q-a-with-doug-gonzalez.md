@@ -37,6 +37,6 @@ Join us as we dive into his journey, insights, and the key principles that drive
 * **You’ve been part of the Zimtra community for a while now. What made you stay with us?**
 
   Zimtra is a fantastic prop firm, and my experience has been really positive. From the start, opening my account was easy and fast. I appreciate the transparency in their results, fees, and commissions. The support team is super responsive, and the locate prices are excellent. I think all these things set Zimtra apart, and I’d encourage new traders to join this awesome community.
-* **Zimtra is hosting an exciting event with Stocks Trading Club in Medellín soon. Why are events like this important for the community, and why should traders attend?**
+* **Zimtra is hosting an [exciting event with Stocks Trading Club](https://zimtra.com/medellin25/) in Medellín soon. Why are events like this important for the community, and why should traders attend?**
 
    I’m part of the Stock Trading Club community, and I’m 100% positive that it’s the best group of traders out there. We've got the top Spanish-speaking coach (*EduTrades!*). Going to these events is a *killer* opportunity to connect with other traders in your city who are on the same journey as you. Plus, you learn so much from the guest speakers and get a better grip on how this whole world works. Seriously, it’s an experience that levels you up and you go home pumped and ready to crush it!

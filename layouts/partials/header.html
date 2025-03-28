@@ -3,16 +3,64 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Zimtra - Your Trusted Trading Partner</title>
-  <meta content="Zimtra is a trusted proprietary trading firm with unparalleled buying power, flexible technology, and unmatched customer service to trade equities on every US stock exchange" name="description">
-  <meta content="Zimtra - Your Trusted Trading Partner" property="og:title">
-  <meta content="Zimtra is a trusted proprietary trading firm with unparalleled buying power, flexible technology, and unmatched customer service to trade equities on every US stock exchange" property="og:description">
-  <meta content="https://zimtra.com/images/zimtra_default_logo.png" property="og:image">
-  <meta content="Zimtra - Your Trusted Trading Partner" property="twitter:title">
-  <meta content="Zimtra is a trusted proprietary trading firm with unparalleled buying power, flexible technology, and unmatched customer service to trade equities on every US stock exchange" property="twitter:description">
-  <meta content="https://zimtra.com/images/zimtra_default_logo.png" property="twitter:image">
+  
+  <!-- Dynamic title based on page content -->
+  {{ if .IsHome }}
+    <title>Zimtra - Your Trusted Trading Partner</title>
+  {{ else }}
+    <title>{{ .Title }} | Zimtra</title>
+  {{ end }}
+
+  <!-- Dynamic meta descriptions -->
+  {{ if .IsHome }}
+    <meta content="Zimtra is a trusted proprietary trading firm with unparalleled buying power, flexible technology, and unmatched customer service to trade equities on every US stock exchange" name="description">
+  {{ else }}
+    <meta content="{{ .Summary }}" name="description">
+  {{ end }}
+
+  <!-- OpenGraph tags -->
+  {{ if .IsHome }}
+    <meta content="Zimtra - Your Trusted Trading Partner" property="og:title">
+    <meta content="Zimtra is a trusted proprietary trading firm with unparalleled buying power, flexible technology, and unmatched customer service to trade equities on every US stock exchange" property="og:description">
+    <meta content="https://zimtra.com/images/zimtra_default_logo.png" property="og:image">
+  {{ else }}
+    <meta content="{{ .Title }} | Zimtra" property="og:title">
+    <meta content="{{ .Summary }}" property="og:description">
+    {{ with .Params.image }}
+    <meta content="{{ . }}" property="og:image">
+    {{ else }}
+    <meta content="https://zimtra.com/images/zimtra_default_logo.png" property="og:image">
+    {{ end }}
+  {{ end }}
+
+  <!-- Twitter Card tags -->
+  {{ if .IsHome }}
+    <meta content="Zimtra - Your Trusted Trading Partner" property="twitter:title">
+    <meta content="Zimtra is a trusted proprietary trading firm with unparalleled buying power, flexible technology, and unmatched customer service to trade equities on every US stock exchange" property="twitter:description">
+    <meta content="https://zimtra.com/images/zimtra_default_logo.png" property="twitter:image">
+  {{ else }}
+    <meta content="{{ .Title }} | Zimtra" property="twitter:title">
+    <meta content="{{ .Summary }}" property="twitter:description">
+    {{ with .Params.image }}
+    <meta content="{{ . }}" property="twitter:image">
+    {{ else }}
+    <meta content="https://zimtra.com/images/zimtra_default_logo.png" property="twitter:image">
+    {{ end }}
+  {{ end }}
+
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
+
+  <!-- Additional meta tags for blog posts -->
+  {{ if .IsPage }}
+    {{ with .Params.publisher }}
+    <meta name="author" content="{{ . }}">
+    {{ end }}
+    {{ with .Date }}
+    <meta property="article:published_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
+    {{ end }}
+  {{ end }}
+
   <link href="https://zimtra.com/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="https://zimtra.com/css/webflow.css" rel="stylesheet" type="text/css">
   <link href="https://zimtra.com/css/zimtra.webflow.css" rel="stylesheet" type="text/css">

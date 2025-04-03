@@ -48,6 +48,4 @@ What I appreciate most about Zimtra is the team behind it. They genuinely listen
 
 **8. Zimtra is hosting an exciting event with Stocks Trading Club in Madrid soon. Why are events like this important for the community, and why should traders attend?**
 
-I recommend **everyone** attend events like the one with Stocks Trading Club. I personally never miss these events, and I go to as many as I can.
-
-Thanks to these events, I’ve met amazing people who have contributed massively to my growth as a trader. You never know who you might meet or how they could impact your journey.
+I recommend **everyone** attend events like the one with Stocks Trading Club. I personally never miss these events, and I go to as many as I can. Thanks to these events, I’ve met amazing people who have contributed massively to my growth as a trader. You never know who you might meet or how they could impact your journey.

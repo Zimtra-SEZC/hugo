@@ -2,10 +2,11 @@
 title: "From Trading Desks to School Desks: Zimtra in Colombia 🇨🇴"
 publisher: Zimtra
 date: 2025-04-15T13:26:00-03:00
+image: /blogposts/images/123.png
 ---
 *At Zimtra, we’ve always been committed to helping our customers: Trade the Advantage. But during our recent trip to Medellín, we had a rare opportunity to extend that mindset far beyond the markets.*
 
-## **Stocks Trading Summit** 
+## **Stocks Trading Summit 🇨🇴**
 
 Traders packed out Medellín for a fantastic trading event with Edu Trades, Tim Sykes, Sang Lucci, Kyle Williams & David Hanlin, full of knowledge sharing.
 

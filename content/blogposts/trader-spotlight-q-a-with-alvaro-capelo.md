@@ -42,8 +42,7 @@ The locates are great, and meeting the team in person gave me a lot of trust. Zi
 
 **8. Zimtra is hosting an exciting event with Stocks Trading Club in Madrid soon. Why are events like this important for the community, and why should traders attend?**
 
-People don’t realize it, but events like these give you the chance to sit next to someone who makes in one day what you make in a year. And that person is probably not even smarter than you. You can talk to them and ask key questions that might steer you in the right direction, because a large portion of social media content is just marketing—and it won’t help you become profitable.\
-\
+People don’t realize it, but events like these give you the chance to sit next to someone who makes in one day what you make in a year. And that person is probably not even smarter than you. You can talk to them and ask key questions that might steer you in the right direction, because a large portion of social media content is just marketing—and it won’t help you become profitable.
 
 **Follow Alvaro and his trading journey:**
  [YouTube](https://www.youtube.com/@CapeloTrading) | [X](https://x.com/agarciacapelo)

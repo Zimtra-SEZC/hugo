@@ -58,7 +58,6 @@ Beyond that, I stay disciplined, accept losses, and view trading as a game of pr
 
 **8. You’ve been part of the Zimtra community for a while now, what made you stay with us?**
 
-Zimtra is simply the best option out there for traders like me. The commissions are unbeatable, support is excellent, and the low deposit requirements make it perfect for building a community of new traders.\
-\
+Zimtra is simply the best option out there for traders like me. The commissions are unbeatable, support is excellent, and the low deposit requirements make it perfect for building a community of new traders.
 
 **Follow UP Trading's journey:** [YouTube](http://www.youtube.com/@UPTrading) [](https://x.com/agarciacapelo)

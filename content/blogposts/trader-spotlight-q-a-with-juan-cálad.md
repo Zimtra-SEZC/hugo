@@ -2,9 +2,9 @@
 title: "Trader Spotlight: Q&A With Juan Cálad"
 publisher: Zimtra
 date: 2025-06-10T13:10:00+02:00
-image: /blogposts/images/whatsapp-image-2025-06-05-at-17.23.09_6f981aec.jpg
+image: /blogposts/images/2.png
 ---
-![](/blogposts/images/whatsapp-image-2025-06-05-at-17.23.09_6f981aec.jpg)
+![](/blogposts/images/2.png)
 
 Juan Cálad is an **international negotiator and educator** with over a decade in the markets. From working at the Colombian Stock Exchange to teaching at top universities, Juan has combined institutional experience with a passion for teaching and entrepreneurship.
 

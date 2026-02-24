@@ -1,5 +1,5 @@
 ---
-title: Q&A with Lucas Marin
+title: "Trader Spotlight: Q&A with Lucas Marin"
 publisher: Zimtra
 date: 2026-02-24T11:57:00-03:00
 image: /blogposts/images/lucas-2x.png

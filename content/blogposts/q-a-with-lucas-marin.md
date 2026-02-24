@@ -2,9 +2,9 @@
 title: "Trader Spotlight: Q&A with Lucas Marin"
 publisher: Zimtra
 date: 2026-02-24T11:57:00-03:00
-image: /blogposts/images/lucas-2x.png
+image: /blogposts/images/whatsapp-image-2026-02-24-at-13.53.46-1-.jpeg
 ---
-![](/blogposts/images/lucas-2x.png)
+![](/blogposts/images/whatsapp-image-2026-02-24-at-13.53.46-1-.jpeg)
 
 **1)    Lucas, for anyone who doesn’t know you properly — give us a quick intro.**
 

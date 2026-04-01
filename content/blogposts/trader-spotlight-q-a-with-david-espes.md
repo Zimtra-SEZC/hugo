@@ -10,9 +10,7 @@ Nearly a decade later, that idea has turned into reality. Now based in Andorra, 
 
 In this interview, he shares how that transition really happened, what changed in his approach, and why focusing on one niche made all the difference.
 
-
-
-![](/blogposts/images/david.png)
+![]()
 
 \
 **1.⁠ ⁠How did the transition really happen from working handling luggage at the airport to trading full-time?**

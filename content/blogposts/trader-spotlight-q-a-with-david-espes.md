@@ -4,6 +4,10 @@ publisher: Zimtra
 date: 2026-04-01T11:08:00-03:00
 image: /blogposts/images/david.png
 ---
+
+
+![](/blogposts/images/david.png)
+
 **David Espes** didn’t start his journey in trading behind a desk — he started it in the cargo hold of airplanes, loading luggage while chasing the idea that one day he could make it in the markets.
 
 Nearly a decade later, that idea has turned into reality. Now based in Andorra, David is a full-time day trader who has carved out a niche in small caps, scaling to over 3000% returns in a single year and producing consistent five-figure months — all transparently tracked.

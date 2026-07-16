@@ -10,14 +10,11 @@ image: /blogposts/images/whatsapp-image-2026-02-24-at-13.53.46.jpeg
 
 My name is Lucas Marin, I’m from Brazil. I’ve been a trader for the last 17 years, but I only started trading U.S. equities five years ago. Before that, I traded only Brazilian markets, mainly futures.
 
-
 On a career level, I worked at Credit Suisse Investment Bank as an Equity Trader nd had my own ecommerce startup.
-
 
 I became a full-time trader in 2023 and had the joy of becoming a nomad trader for two years, traveling to 27 countries during that period. A dream come true.
 
-
-Now, I’ve returned home and started working at BlackArrow, the next-gen trading platform for U.S. markets, while still trading every single day.
+Now, I’ve returned home and started working at [BlackArrow](https://blackarrowtrading.com/?utm_source=referral&utm_medium=organic&utm_campaign=ba_ww_branding_top_aws_reach_na_marinqa&utm_term=na_15072026_45005_equities&utm_content=na_na_zimtrapage), the next-gen trading platform for U.S. markets, while still trading every single day.
 
 **2)    You’ve mentioned having a breakthrough over the past 12 months. What actually clicked for you?** 
 
@@ -29,7 +26,7 @@ Third, since I had fewer trades per day, I became more focused. This helped me i
 
 **3)    How do you balance the art of part-time trading while working full-time for BlackArrow? How does that structure look?**
 
-It looks amazing. First, working at BlackArrow helped me better understand the microstructure of the market. Now I have meetings with brokers, exchanges, and influencers, and that has helped me improve as a trader as well. But the biggest change has been reducing screen time. I don’t overtrade anymore because I simply don’t have the free time to do it.
+It looks amazing. First, working at [BlackArrow](https://blackarrowtrading.com/?utm_source=referral&utm_medium=organic&utm_campaign=ba_ww_branding_top_aws_reach_na_marinqa&utm_term=na_15072026_45005_equities&utm_content=na_na_zimtrapage) helped me better understand the microstructure of the market. Now I have meetings with brokers, exchanges, and influencers, and that has helped me improve as a trader as well. But the biggest change has been reducing screen time. I don’t overtrade anymore because I simply don’t have the free time to do it.
 
 And as I said before, not having the pressure to make money makes you focus on trading well, which is the right approach to trading.
 
@@ -41,13 +38,11 @@ Another thing that I learned is that if you take a stop, it doesn’t mean you c
 
 **5)    How has Zimtra been part of your journey — which features or packages do you use?**
 
-Zimtra was the first player to innovate and partner with BlackArrow. I’ve been using its low commissions and affordable locates to trade every single day. Also, I use routes to add liquidity, which is a game changer for any trader looking to reduce costs instead of paying commissions.
-
+Zimtra was the first player to innovate and partner with [BlackArrow](https://blackarrowtrading.com/?utm_source=referral&utm_medium=organic&utm_campaign=ba_ww_branding_top_aws_reach_na_marinqa&utm_term=na_15072026_45005_equities&utm_content=na_na_zimtrapage). I’ve been using its low commissions and affordable locates to trade every single day. Also, I use routes to add liquidity, which is a game changer for any trader looking to reduce costs instead of paying commissions.
 
 **6)    The markets gone sideways or down this year to date: has this caused any challenges you’ve had to overcome? If so, how?** 
 
 Small caps have been very quiet this year, but it’s only February. Historically, March is when things tend to heat up again, and I’ll be prepared to add size to the opportunities that arise. My focus hasn’t been to look for other setups if mine are quiet. Instead, I size down to the available volume and stay away from FOMO.
-
 
 **7)    Where have you most saw opportunities this year?**
 
